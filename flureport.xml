@@ -1,0 +1,269 @@
+<flureport title="" subtitle="Week Ending May 11, 2019- Week 19" defaultColor="FEE391" timePeriod="Week" Legend1="No Report" LegendLabel1="No Report" Legend2="No Activity" LegendLabel2="No Activity" Legend3="Sporadic" LegendLabel3="Sporadic" Legend4="EBE236" LegendLabel4="Local" Legend5="F0BB37" LegendLabel5="Regional" Legend6="B39874" LegendLabel6="Widespread">
+  <timeperiod number="19" year="2019" subtitle="Week Ending May 11, 2019- Week 19">
+    <state>
+      <abbrev>AL</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>AK</abbrev>
+      <color>No Activity</color>
+      <label>No Activity</label>
+    </state>
+    <state>
+      <abbrev>AZ</abbrev>
+      <color>Regional</color>
+      <label>Regional</label>
+    </state>
+    <state>
+      <abbrev>AR</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>CA</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>CO</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>CT</abbrev>
+      <color>Regional</color>
+      <label>Regional</label>
+    </state>
+    <state>
+      <abbrev>DE</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>DC</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>FL</abbrev>
+      <color>Local Activity</color>
+      <label>Local Activity</label>
+    </state>
+    <state>
+      <abbrev>GA</abbrev>
+      <color>Local Activity</color>
+      <label>Local Activity</label>
+    </state>
+    <state>
+      <abbrev>HI</abbrev>
+      <color>Local Activity</color>
+      <label>Local Activity</label>
+    </state>
+    <state>
+      <abbrev>ID</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>IL</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>IN</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>IA</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>KS</abbrev>
+      <color>No Activity</color>
+      <label>No Activity</label>
+    </state>
+    <state>
+      <abbrev>KY</abbrev>
+      <color>Local Activity</color>
+      <label>Local Activity</label>
+    </state>
+    <state>
+      <abbrev>LA</abbrev>
+      <color>Local Activity</color>
+      <label>Local Activity</label>
+    </state>
+    <state>
+      <abbrev>ME</abbrev>
+      <color>Local Activity</color>
+      <label>Local Activity</label>
+    </state>
+    <state>
+      <abbrev>MD</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>MA</abbrev>
+      <color>Regional</color>
+      <label>Regional</label>
+    </state>
+    <state>
+      <abbrev>MI</abbrev>
+      <color>Local Activity</color>
+      <label>Local Activity</label>
+    </state>
+    <state>
+      <abbrev>MN</abbrev>
+      <color>Local Activity</color>
+      <label>Local Activity</label>
+    </state>
+    <state>
+      <abbrev>MS</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>MO</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>MT</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>NE</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>NV</abbrev>
+      <color>Local Activity</color>
+      <label>Local Activity</label>
+    </state>
+    <state>
+      <abbrev>NH</abbrev>
+      <color>Local Activity</color>
+      <label>Local Activity</label>
+    </state>
+    <state>
+      <abbrev>NJ</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>NM</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>NY</abbrev>
+      <color>Regional</color>
+      <label>Regional</label>
+    </state>
+    <state>
+      <abbrev>NC</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>ND</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>OH</abbrev>
+      <color>Local Activity</color>
+      <label>Local Activity</label>
+    </state>
+    <state>
+      <abbrev>OK</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>OR</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>PA</abbrev>
+      <color>Local Activity</color>
+      <label>Local Activity</label>
+    </state>
+    <state>
+      <abbrev>RI</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>SC</abbrev>
+      <color>Local Activity</color>
+      <label>Local Activity</label>
+    </state>
+    <state>
+      <abbrev>SD</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>TN</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>TX</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>UT</abbrev>
+      <color>Local Activity</color>
+      <label>Local Activity</label>
+    </state>
+    <state>
+      <abbrev>VT</abbrev>
+      <color>Local Activity</color>
+      <label>Local Activity</label>
+    </state>
+    <state>
+      <abbrev>VA</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>WA</abbrev>
+      <color>Local Activity</color>
+      <label>Local Activity</label>
+    </state>
+    <state>
+      <abbrev>WV</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>WI</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>WY</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+    <state>
+      <abbrev>PR</abbrev>
+      <color>Regional</color>
+      <label>Regional</label>
+    </state>
+    <state>
+      <abbrev>VI</abbrev>
+      <color>Sporadic</color>
+      <label>Sporadic</label>
+    </state>
+  </timeperiod>
+</flureport>
